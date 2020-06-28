@@ -1,0 +1,23 @@
+{
+  "name": "lp-test-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rofound/lp-test-package.git"
+  },
+  "keywords": [
+    "lp",
+    "test"
+  ],
+  "author": "Kevin Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rofound/lp-test-package/issues"
+  },
+  "homepage": "https://github.com/Rofound/lp-test-package#readme"
+}
